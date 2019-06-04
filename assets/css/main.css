@@ -113,6 +113,12 @@ input, select, textarea {
 			transition: none !important;
 		}
 
+/* Tatiana Customization to Portfolio Page June 4, 2019 */
+
+section .wrapper .style1 .align-center {
+	display: none;
+}
+
 /* Type */
 
 	html {
@@ -4410,6 +4416,7 @@ input, select, textarea {
 	}
 
 /* Spotlight (transitions) */
+
 
 	.spotlight.onload-content-fade-up .content {
 		-moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
